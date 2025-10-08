@@ -1,2 +1,4 @@
-# Creacion_de_videojuegos_GIDS5101
+# CREACIÓN DE VIDEOJUEGOS
 Repositorio para guardar los trabajos y desafíos 
+
+# U2. PROGRAMACIÓN ORIENTADA A OBJETOS PARA VIDEOJUEGOS

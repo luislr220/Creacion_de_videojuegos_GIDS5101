@@ -9,6 +9,8 @@ Repositorio para guardar los trabajos y desafíos
 ## ***TABLA DE CONTENIDO***
 1. [Desafio 2 ](#desafio-2-viernes-3-de-octubre)
 
+---
+
 ### Desafio 2 - Viernes 3 de octubre
 Este desafio se entrego en clase, se adjunta evidencia de resultado final
 #### Resultado

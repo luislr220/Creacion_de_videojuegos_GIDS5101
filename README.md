@@ -20,7 +20,7 @@ Este desafio se entrego en clase, se adjunta evidencia de resultado final
 
 ---
 
-### Lección 1: El control del jugador
+### Lección 1: El control del jugador <a id="leccion-1-el-control-del-jugador"></a>
 #### Resultado
 
 <img width="1269" height="636" alt="image" src="https://github.com/user-attachments/assets/7fc0da0e-5449-40af-8de0-f070d46e319e" />

@@ -11,7 +11,7 @@ Repositorio para guardar los trabajos y desafíos
 
 ---
 
-### Desafio 2 - Viernes 3 de octubre
+### Desafio 2 - Viernes 3 de octubre <a id="desafio-2---viernes-3-de-octubre"></a>
 Este desafio se entrego en clase, se adjunta evidencia de resultado final
 #### Resultado
 <img width="1272" height="388" alt="image" src="https://github.com/user-attachments/assets/ea398741-58ce-4dcb-9aed-0238f1aa61d9" />
@@ -40,9 +40,10 @@ Este desafio se entrego en clase, se adjunta evidencia de resultado final
 <br>
 <br>
 <a href="https://drive.google.com/file/d/1KlpC_yb_4VMt7oCDXkqC6lnYt2_0DHIH/view?usp=sharing">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/YouTube_social_white_squircle_%282017%29.svg" width="24" style="vertical-align:middle; margin-right:4px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png" width="24" style="vertical-align:middle; margin-right:6px;">
   Video evidencia Lección 1
 </a>
+
 
 
 

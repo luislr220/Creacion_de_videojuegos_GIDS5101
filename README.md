@@ -1,4 +1,3 @@
-<img width="1269" height="636" alt="image" src="https://github.com/user-attachments/assets/71c64aa9-0bab-44eb-ab67-d58b30bb51fc" /># CREACIÓN DE VIDEOJUEGOS
 Repositorio para guardar los trabajos y desafíos 
 
 ## UNIDAD 2. PROGRAMACIÓN ORIENTADA A OBJETOS PARA VIDEOJUEGOS
@@ -25,5 +24,9 @@ Este desafio se entrego en clase, se adjunta evidencia de resultado final
 
 <img width="1269" height="636" alt="image" src="https://github.com/user-attachments/assets/7fc0da0e-5449-40af-8de0-f070d46e319e" />
 
-[![PDF](https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg)](https://drive.google.com/file/d/1GllRN0AGZ9umV73686p6CbgUaJFYvpvu/view?usp=sharing)
+<a href="https://drive.google.com/file/d/1GllRN0AGZ9umV73686p6CbgUaJFYvpvu/view?usp=sharing">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" width="24" style="vertical-align:middle; margin-right:4px;">
+  PDF evidencia de autoría
+</a>
+
 

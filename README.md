@@ -32,10 +32,19 @@ Este desafio se entrego en clase, se adjunta evidencia de resultado final
   PDF evidencia de autoría
 </a>
 <br>
+<br>
 <a href="./Leccion_1_package.unitypackage">
-  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="24" style="vertical-align:middle; margin-right:6px;">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" width="24" style="vertical-align:middle; margin-right:6px;">
   Evidencia package Lección 1
 </a>
+<br>
+<br>
+<a href="https://drive.google.com/file/d/1KlpC_yb_4VMt7oCDXkqC6lnYt2_0DHIH/view?usp=sharing">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/YouTube_social_white_squircle_%282017%29.svg" width="24" style="vertical-align:middle; margin-right:4px;">
+  Video evidencia Lección 1
+</a>
+
+
 
 
 

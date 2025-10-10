@@ -7,6 +7,7 @@ Repositorio para guardar los trabajos y desafíos
 
 ## ***TABLA DE CONTENIDO***
 1. [Desafio 2 ](#desafio-2-viernes-3-de-octubre)
+2. [Lección 1](#lección-1:-el-control-del-jugador)
 
 ---
 
@@ -30,9 +31,9 @@ Este desafio se entrego en clase, se adjunta evidencia de resultado final
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" width="24" style="vertical-align:middle; margin-right:4px;">
   PDF evidencia de autoría
 </a>
-
+<br>
 <a href="./Leccion_1_package.unitypackage">
-  <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" width="24" style="vertical-align:middle; margin-right:6px;">
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="24" style="vertical-align:middle; margin-right:6px;">
   Evidencia package Lección 1
 </a>
 

@@ -6,8 +6,8 @@ Repositorio para guardar los trabajos y desafíos
 #### GIDS5051
 
 ## ***TABLA DE CONTENIDO***
-1. [Desafio 2 ](#desafio-2-viernes-3-de-octubre)
-2. [Lección 1](#lección-1:-el-control-del-jugador)
+1. [Desafío 2](#desafio-2---viernes-3-de-octubre)
+2. [Lección 1: El control del jugador](#leccion-1-el-control-del-jugador)
 
 ---
 

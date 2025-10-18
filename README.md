@@ -65,13 +65,13 @@ Este desafio se entrego en clase, se adjunta evidencia de resultado final
 
 <a href="https://drive.google.com/file/d/1IZimoqfv4BR_CXkOX0uHhUshw6ZN6j07/view?usp=sharing">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" width="24" style="vertical-align:middle; margin-right:6px;">
-  Evidencia package Lección 1
+  Evidencia package menú
 </a>
 <br>
 <br>
 <a href="https://drive.google.com/file/d/1BULWCDsQBrOZFkST4OV1axcnWZyiPRrU/view?usp=sharing">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png" width="24" style="vertical-align:middle; margin-right:6px;">
-  Video evidencia Lección 1
+  Video evidencia menú
 </a>
 
 ---
@@ -89,15 +89,15 @@ Este desafio se entrego en clase, se adjunta evidencia de resultado final
 </a>
 <br>
 <br>
-<a href="./Leccion_1_package.unitypackage">
+<a href="./Leccion2_Package.unitypackage">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" width="24" style="vertical-align:middle; margin-right:6px;">
-  Evidencia package Lección 1
+  Evidencia package Lección 2
 </a>
 <br>
 <br>
-<a href="https://drive.google.com/file/d/1KlpC_yb_4VMt7oCDXkqC6lnYt2_0DHIH/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1upnN3SoLGWs4pPou6wEY6iMnVI3dVbOH/view?usp=sharing">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png" width="24" style="vertical-align:middle; margin-right:6px;">
-  Video evidencia Lección 1
+  Video evidencia Lección 2
 </a>
 
 

@@ -11,6 +11,7 @@ Repositorio para guardar los trabajos y desafíos
 3. [Desafío 3: Creación de un menú](#desafio-3-menu)
 4. [Leeción 2: Jugabilidad básica](#leccion-2-jugabilidad-basica)
 5. [Desafío 4: Barra de Vida](#desafio-4-barra-de-vida)
+6. [Lección 3: Sonidos y Efectos](#leccion-3-sonidos-y-efectos)
 ---
 
 ### Desafio 2 <a id="desafio-2"></a>
@@ -129,6 +130,33 @@ _Este desafio se entrego a la hora de clase, pero se adjunta evidencia_
 <a href="https://drive.google.com/file/d/1iFaqK3jgaLdeJc83JjtOEYJ6u_O_rtaw/view?usp=sharing">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png" width="24" style="vertical-align:middle; margin-right:6px;">
   Video evidencia Desafío 4
+</a>
+
+
+---
+
+### Lección 3: Sonidos y Efectos <a id="leccion-3-sonidos-y-efectos"></a>
+#### Resultado
+
+<img width="1400" height="652" alt="image" src="https://github.com/user-attachments/assets/41d71f42-8e60-4531-b5a6-9a39f0d731e6" />
+
+#### Evidencia
+
+<a href="https://drive.google.com/file/d/1nflPNc1uMLVEFFJDRtJ3Vq5MQVp9gthU/view?usp=sharing">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" width="24" style="vertical-align:middle; margin-right:4px;">
+  PDF evidencia de autoría
+</a>
+<br>
+<br>
+<a href="./leccion3_package.unitypackage">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" width="24" style="vertical-align:middle; margin-right:6px;">
+  Evidencia package Lección 3
+</a>
+<br>
+<br>
+<a href="https://drive.google.com/file/d/1vg7-g2PXLIkijmKD9SpL3zOWOjGDqg7P/view?usp=sharing">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png" width="24" style="vertical-align:middle; margin-right:6px;">
+  Video evidencia Lección 3
 </a>
 
 
